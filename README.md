@@ -6,16 +6,16 @@ Santiago Sánchez Ruiz
 - Repositorio Github: https://github.com/SrLampi1001/prueba_desempeno_m2
 ### Como instalar este repositorio:  
 Para descargar este repositorio, ingrese el comando:
-- git clone https://github.com/SrLampi1001/prueba_desempeno_m2.git
+- git clone https://github.com/SrLampi1001/prueba_desempeno_m2.git  
 En su carpeta de elección.  
-O descargue el zip del repositorio.
+O descargue el zip del repositorio.  
 ### Visualizar el proyecto:  
 Para visualizar el proyecto basta con ejecutar el archivo index.html, no es necesario un Live Server para este proyecto (No existe nada en el lado del servidor).  
 ## Enunciado:
 Eres un desarrollador web encargado de replicar la landing page de un producto llamado Clipboard. Esta página debe transmitir de forma clara y visualmente atractiva las características del producto, además de adaptarse a diferentes dispositivos  
 ## Requisitos:  
 ### Estructura HTML:
-- Crear un archivo llamado Index.html con estrutura semántica utilizando etiquetas como <header>,<main>,<section>, <footer>
+- Crear un archivo llamado Index.html con estrutura semántica utilizando etiquetas como header\> , main\> , section\> , footer\>
 - Incluir secciones equivalentes a las del diseño propuesto: hero, features,
 workflow, partners, call-to-action y footer.
 ### Estilos css:
