@@ -2,6 +2,8 @@
 Este es el repositorio que contiene la prueba de desempeño del módulo 2 de Desarrollo de Software en Riwi  
 ## Creador  
 Santiago Sánchez Ruiz  
+- Repositorio Github: [Repositorio](https://github.com/SrLampi1001/prueba_desempeno_m2)
+
 ## Enunciado:
 Eres un desarrollador web encargado de replicar la landing page de un producto llamado Clipboard. Esta página debe transmitir de forma clara y visualmente atractiva las características del producto, además de adaptarse a diferentes dispositivos  
 ## Requisitos:  
