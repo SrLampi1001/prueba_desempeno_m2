@@ -10,6 +10,7 @@ git clone https://github.com/SrLampi1001/prueba_desempeno_m2.git
 arternatively, you can install the ZIP file available when pressing the code button, and then Downland ZIP  
 ### Visualize the project:  
 To visualize the project executing the index.html file is enough, there's no need for a live server of any kind, as this project is simple CSS and HTML.  
+If you haven't installed the ZIP archive or cloned the repository, you can check the web page in: https://srlampi1001.github.io/prueba_desempeno_m2/
 ## Activity Description:
 You are a Software engineer in charge of replicating the Clipboard product landing page. This web page must transmit clearly and visually atractive the product characteristics, besides adapting to all kind of resolutions.  
 ## Requirements:  
