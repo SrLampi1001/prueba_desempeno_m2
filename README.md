@@ -1,41 +1,36 @@
-# prueba_desempeno_m2  
-Este es el repositorio que contiene la prueba de desempeño del módulo 2 de Desarrollo de Software en Riwi  
-## Información  
-### Creador:  
+# Performance test 2  
+This is the repository containing the software design module 2 performance test  
+## Information  
+### Creator:  
 Santiago Sánchez Ruiz  
-- Repositorio Github: https://github.com/SrLampi1001/prueba_desempeno_m2
-### Como instalar este repositorio:  
-Para descargar este repositorio, ingrese el comando:
-- git clone https://github.com/SrLampi1001/prueba_desempeno_m2.git  
-En su carpeta de elección.  
-O descargue el zip del repositorio.  
-### Visualizar el proyecto:  
-Para visualizar el proyecto basta con ejecutar el archivo index.html, no es necesario un Live Server para este proyecto (No existe nada en el lado del servidor).  
-## Enunciado:
-Eres un desarrollador web encargado de replicar la landing page de un producto llamado Clipboard. Esta página debe transmitir de forma clara y visualmente atractiva las características del producto, además de adaptarse a diferentes dispositivos  
-## Requisitos:  
-### Estructura HTML:
-- Crear un archivo llamado Index.html con estrutura semántica utilizando etiquetas como header\> , main\> , section\> , footer\>
-- Incluir secciones equivalentes a las del diseño propuesto: hero, features,
-workflow, partners, call-to-action y footer.
-### Estilos css:
-- Usar un archivo externo styles.css para aplicar todos los estilos
-- Incorporar tipografías desde Google Fonts (según el diseño)
-- Utilizar paleta de colores, espaciados y jerarquía visual acorde al diseño
-original
-- Aplicar efectos visuales como hover en botones, enlaces y tarjetas
-### Diseño responsivo:
-- Implementar diseño responsive utilizando Flexbox y/o CSS Grid
-- Garantizar que el sitio se visualice correctamente en:
-    - Escritorio (≥ 1024px)
+- Github Repository: https://github.com/SrLampi1001/prueba_desempeno_m2
+### How to install this Repository:  
+To clone, insert in your terminal the command:  
+git clone https://github.com/SrLampi1001/prueba_desempeno_m2.git  
+arternatively, you can install the ZIP file available when pressing the code button, and then Downland ZIP  
+### Visualize the project:  
+To visualize the project executing the index.html file is enough, there's no need for a live server of any kind, as this project is simple CSS and HTML.  
+## Activity Description:
+You are a Software engineer in charge of replicating the Clipboard product landing page. This web page must transmit clearly and visually atractive the product characteristics, besides adapting to all kind of resolutions.  
+## Requirements:  
+### HTML structure:
+- Create an Index.html file with a semantic structure using tags like header\> , main\> , section\> , footer\>  
+- Include sections equivalent to the ones in the proposed design: hero, features, workflow, partners, call-to-action y footer.  
+### CSS styles:
+- Use an external file styles.css to apply all the styles
+- Incorporate typographies from Google Fonts (based on the design)
+- Use color palette, spaces y visual jerarqui based on the original design
+- Apply visual effects like hover on buttons, links y cards
+### Responsive design:
+- Implement responsive design using Flexbox and/or CSS Grid  
+- Garanty that the site is visible in:
+    - Desktop (≥ 1024px)
     - Tablet (≥ 768px)
-    - Móvil (≤ 480px)
+    - Phone (≤ 480px)
 
-## Opcional:
-- Crear una versión adicional con varias páginas: por ejemplo, una página
-independiente para los features o el service.
-- Usar variables CSS (:root) para definir colores y fuentes.
-- Agregar transiciones suaves (transition) en elementos interactivos como botones y
-enlaces.
-- Incluir una animación o microinteracción opcional en la navegación o botones
-- Desplegar en una URL publica de production
+## Optional:  
+- Create an aditional version with various pages: For example, an independent page for services or features.
+- Use CSS variables (:root) to define colors y fonts.
+- Add smooth transitions (transition) in interactive elements like buttons and links.
+- Include an animation or optional micro interaction opcional in the navegation bar or buttons.
+- Deploy in a public production URL.
